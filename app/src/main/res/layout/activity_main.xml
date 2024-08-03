@@ -22,15 +22,6 @@
         tools:layout_editor_absoluteX="215dp"
         tools:layout_editor_absoluteY="712dp" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="523dp"
-        android:layout_height="69dp"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="16dp"
-        tools:text="The Allergey Network" />
-
     <ListView
         android:layout_width="657dp"
         android:layout_height="581dp"
